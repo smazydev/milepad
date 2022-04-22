@@ -1,0 +1,22 @@
+.title-container{
+    margin-top: 5px;
+}
+
+.title{
+    height: 20px;
+    width: fit-content;
+    border: none;
+    letter-spacing: 2px;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+.title:focus{
+    outline:none;
+}
+
+
+@media screen and (max-width: 480px){
+    .title{
+        margin: 0;
+    }
+}

@@ -1,0 +1,17 @@
+.navTabContainer {
+    width: 40px;
+    align-self: flex-end ;
+}
+
+.navTabButton {
+    cursor: pointer;
+    padding-right: 16px;
+    vertical-align: center;
+    background-color: #ffff;
+    border: none;
+}
+
+.navTabButton:hover{
+    background-color: #edeff3d7;
+    border-radius: 4px;
+}

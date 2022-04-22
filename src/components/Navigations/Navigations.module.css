@@ -1,0 +1,15 @@
+.navigationmain {
+    display: flex;
+    font-size: 15px;
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    color: #202124;
+    align-items: baseline;
+    zoom: 1.1;
+}
+
+
+@media screen and (max-width: 480px){
+    .navigationmain{
+        display: none;
+    }
+}

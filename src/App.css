@@ -1,0 +1,12 @@
+.EditorContainer {
+    background-color: #f8f9fa;
+    zoom: 1.4;
+}
+.ql-toolbar {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.ql-editor{
+    overflow-y: none !important;
+}
